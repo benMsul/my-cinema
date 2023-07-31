@@ -1,0 +1,58 @@
+Analyse de la base de données MySQL:
+
+- Téléchargez la base de données fournie dans le sujet.
+
+- Utilisez un outil de gestion de bases de données pour ouvrir et explorer la structure des tables.
+
+- Identifiez les relations entre les tables (clés étrangères) et notez les champs importants.
+
+- Prenez en compte les contraintes de la base de données (clés primaires, clés étrangères) et les index pour améliorer les performances des requêtes.
+
+
+Planification de l'architecture du site:
+
+- Utilisez une méthodologie de développement comme MVC pour organiser votre code.
+
+- Créez un fichier de configuration pour stocker les informations de connexion à la base de données.
+
+- Séparez le code PHP pour l'affichage et la logique. Utilisez des fonctions ou des classes pour encapsuler la logique.
+
+- Créez des vues HTML pour l'affichage. Utilisez des modèles pour réduire la duplication de code.
+
+
+Développement des fonctionnalités obligatoires:
+
+- Ecrivez du code pour la recherche de films par nom, genre et distributeur.
+
+- Ecrivez du code pour la recherche de membres par nom et prénom.
+
+- Ecrivez du code pour la gestion des abonnements (ajout, suppression, modification).
+
+- Ecrivez du code pour l'affichage de l'historique d'un abonné (les films qu'il a vus).
+
+- Ecrivez du code pour ajouter une entrée à l'historique d'un abonné (film vu par le membre aujourd'hui).
+
+- Ecrivez du code pour ajouter une séance pour un film.
+
+- Ecrivez du code pour la recherche des films par date de projection.
+
+
+Testez et debuguez le code :
+
+- Testez régulièrement votre code pour vous assurer qu'il fonctionne correctement.
+
+- Utilisez des outils de débogage pour trouver et corriger les erreurs.
+
+
+Sécurité:
+
+- Utilisez des pratiques de sécurité telles que l'échappement des données utilisateur, la validation des entrées, etc.
+
+- Utilisez des fonctionnalités de sécurité intégrées à PHP (comme les sessions) pour protéger les pages sensibles.
+
+
+Mise en page:
+
+- Ajoutez une mise en page à votre site en utilisant des feuilles de style CSS.
+
+- Assurez-vous que votre code est valide HTML5 et respecte les normes de l'industrie.
